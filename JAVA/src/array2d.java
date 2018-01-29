@@ -1,5 +1,5 @@
-import java.util.*;
-class Twodarray
+import java.util.Scanner;
+class array2d
 {
 public static void main(String[] args) {
 			Scanner sn=new Scanner(System.in);
